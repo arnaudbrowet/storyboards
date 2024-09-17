@@ -2,7 +2,7 @@
 id: 13
 trl: medium
 category: EUCP data and products
-title: Atlas of (un)constrained climate projections
+title: Atlas of (un)constrained climate projections [ABR]
 author: B. Booth et al., UK Met Office
 thumbnail: "comparing.png"
 ---
